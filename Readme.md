@@ -1,4 +1,4 @@
-Hand Gesture Recognition
+# Hand Gesture Recognition
 
 Hand gesture recognition has emerged as a vital component in the advancement of human-computer interaction technologies. This project aims to develop a robust hand gesture recognition system utilizing computer vision and machine learning techniques, specifically leveraging OpenCV, MediaPipe, and TensorFlow. The system is designed to accurately interpret and respond to a variety of hand gestures, enabling intuitive and touch-free control of electronic devices and applications.
 
